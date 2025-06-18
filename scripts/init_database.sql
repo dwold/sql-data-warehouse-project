@@ -1,5 +1,8 @@
 /*
 --------------------------------------------------------------------------------
+================================================================================
+Create Database and Schemas
+================================================================================
  Script Name   : init_database.sql
  Description   : This script creates a new database called 'DataWarehouse' and 
                  defines a multi-layer schema architecture (bronze, silver, gold).
